@@ -8,14 +8,14 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "a_1"
+      "registry_name": "kettensaege"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.matt.a_1": "A 1"
+      "item.matt.kettensaege": "Kettensäge"
     }
   },
   "foldersRoot": {

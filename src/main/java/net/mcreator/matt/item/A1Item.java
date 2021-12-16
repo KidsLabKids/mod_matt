@@ -13,7 +13,7 @@ import net.mcreator.matt.MattModElements;
 
 @MattModElements.ModElement.Tag
 public class A1Item extends MattModElements.ModElement {
-	@ObjectHolder("matt:a_1")
+	@ObjectHolder("matt:kettensaege")
 	public static final Item block = null;
 	public A1Item(MattModElements instance) {
 		super(instance, 1);
@@ -31,7 +31,7 @@ public class A1Item extends MattModElements.ModElement {
 			}
 
 			public float getAttackDamage() {
-				return 13f;
+				return 23f;
 			}
 
 			public int getHarvestLevel() {
@@ -46,6 +46,6 @@ public class A1Item extends MattModElements.ModElement {
 				return Ingredient.EMPTY;
 			}
 		}, 3, 6f, new Item.Properties().group(ItemGroup.COMBAT)) {
-		}.setRegistryName("a_1"));
+		}.setRegistryName("kettensaege"));
 	}
 }

@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "fichtenmoped",
     "customModelName": "Normal",
-    "name": "A 1",
+    "name": "Kettensäge",
     "specialInfo": [],
     "creativeTab": {
       "value": "COMBAT"
@@ -15,7 +15,7 @@
     "efficiency": 4.0,
     "attackSpeed": 10.0,
     "enchantability": 2,
-    "damageVsEntity": 15.0,
+    "damageVsEntity": 25.0,
     "usageCount": 100,
     "blocksAffected": [],
     "hasGlow": false,
