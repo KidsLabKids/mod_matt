@@ -9,12 +9,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "kettensaege"
+    },
+    {
+      "name": "Tim",
+      "type": "livingentity",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tim"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.matt.tim_spawn_egg": "Tim Spawn Egg",
+      "entity.matt.tim": "Tim",
       "item.matt.kettensaege": "Kettensäge"
     }
   },
